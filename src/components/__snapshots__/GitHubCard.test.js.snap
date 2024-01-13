@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+    style="width: 18rem;"
+  >
+    <div
+      class="card-title h5"
+    >
+      GitHub Lucia
+    </div>
+    <img
+      alt="Your Photo"
+      class="card-img-top"
+      src="https://plus.unsplash.com/premium_photo-1661943864527-d714736dfd16?"
+    />
+    <div
+      class="card-body"
+    >
+      <p
+        class="card-text"
+      >
+        This is a blurb about me. I am a passionate developer who loves coding.
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
